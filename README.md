@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Eren YILDIZ, Attorney-At-Law / Legal Engineer.
-- 👀 I’m interested in Blockhain Law, IT Law, Contract Law and also developing dApps.
-- 🌱 I’m currently learning Javascript and React. Furthermore, Solidity and Rust.
+- 👀 I’m interested in Blockchain Law, IT Law, Contract Law and also developing dApps.
+- 🌱 I’m currently learning Javascript and React. Next target, Solidity and Rust.
 - 💞️ I’m looking to collaborate with developers.
 - 📫 You can reach me via email: yerenyildiz@gmail.com and please visit my Resume website: www.yusuferenyildiz.av.tr
 
