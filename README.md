@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Law, IT Law, Contract Law and also developing dApps.
 - 🌱 I’m currently learning Javascript and React. Next target, Solidity and Rust.
 - 💞️ I’m looking to collaborate with developers.
-- 📫 You can reach me via email: yerenyildiz@gmail.com and please visit my Resume website: yusuferenyildiz.av.tr
+- 📫 You can reach me via email: yerenyildiz@gmail.com and please visit my Resume website: www.yusuferenyildiz.av.tr
 
 <!---
 yerenyildiz/yerenyildiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
